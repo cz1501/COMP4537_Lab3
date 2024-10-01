@@ -6,7 +6,8 @@
  */
 
 const messages = {
-    greeting: 'Hello %1, What a beautiful day. Server current date and time is'
+    greeting: 'Hello %1, What a beautiful day. Server current date and time is',
+    fileWriteSuccess: 'The text "%1" has been written to the file',
 };
 
 module.exports = messages;
